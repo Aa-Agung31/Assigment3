@@ -1,0 +1,47 @@
+/* h1{
+    text-align: center;
+} */
+.jumbotron{
+    height: 500px;
+	background-image: url(../img/oke.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0 -140px;
+	overflow: hidden;
+	position: relative;
+    padding-top: 80px;
+    color: #ffffff;
+}
+.jumbotron img{
+    width: 200px;
+    border: 5px solid #838383;
+}
+.about hr{
+    width: 200px;
+    border-top: 3px solid#ffffff;
+}
+section{
+    min-height: 600px;
+}
+.portofolio hr{
+    width: 200px;
+    border-top: 3px solid#ffffff;
+}
+.portofolio{
+    background-color: #eee;
+}
+.Contact hr{
+    width: 200px;
+    border-top: 3px solid#999;
+}
+.Contact{
+    min-height: 500px;
+}
+
+footer{
+    text-align: center;
+    height: 100px;
+    margin-top: 100px;
+    color: white;
+    padding-top: 20px;
+}
